@@ -2,7 +2,8 @@ body{
   width: 100%; 
   height: 100%; 
   background-color: yellow; 
-} .test{ 
+} 
+.test{ 
   color: red; 
   font-family: sans-serif, Impact; 
   border-color: yellow; 
